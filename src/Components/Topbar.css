@@ -1,0 +1,16 @@
+.Topbarmenu{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    gap:10px;
+}
+
+.Linking{
+    color: #fff;
+    text-decoration: none;
+}
+
+.active {
+    color: yellow; /* Change this to your desired active color */
+  }
